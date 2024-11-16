@@ -11,7 +11,7 @@ Como sou uma karateka eu me inspirei nessa arte marcial
 
 ## 🚀 Resultados
 Ebook
-link para o ebook
+link para o ebook https://github.com/mtt1979/lab-natty-or-not/blob/main/ebook%20karateka.docx
 
 ## 💭 Reflexão (Opcional)
 E diferente e interessante o uso dessas ferramentas de IA para criar um projeto que se fosse fazer manual levaria muito mais tempo.
